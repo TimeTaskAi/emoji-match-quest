@@ -1,0 +1,17 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+*.aab
+*.apk
+*.jks
+*.keystore
+out/
+android/.gradle/
+android/app/build/
+android/build/
+Google_Drive_Backup_Emoji_Match/
+*.zip

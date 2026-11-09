@@ -1,0 +1,8 @@
+{
+  "name": "Emoji Match",
+  "description": "Sweet candy match-3 puzzle game with global leaderboard and AdMob rewards.",
+  "requestFrame": {
+    "width": 420,
+    "height": 780
+  }
+}
